@@ -1,0 +1,12 @@
+body {
+	background-image: url('blue-wall-background.jpg');
+	background-size: cover;
+}
+.title {
+    text-align: center;
+}
+.law{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
